@@ -1,0 +1,16 @@
+февр. 17, 2023 6:42:21 PM org.example.Task02 main
+INFO: Первое введённое число: 23
+февр. 17, 2023 6:42:26 PM org.example.Task02 main
+INFO: Оператор: +
+февр. 17, 2023 6:42:28 PM org.example.Task02 main
+INFO: Второе введённое число: 34
+февр. 17, 2023 6:42:28 PM org.example.Task02 main
+INFO: Результат: 57
+февр. 17, 2023 6:42:52 PM org.example.Task02 main
+INFO: Первое введённое число: 45
+февр. 17, 2023 6:42:56 PM org.example.Task02 main
+INFO: Оператор: *
+февр. 17, 2023 6:42:58 PM org.example.Task02 main
+INFO: Второе введённое число: 3
+февр. 17, 2023 6:42:58 PM org.example.Task02 main
+INFO: Результат: 135
